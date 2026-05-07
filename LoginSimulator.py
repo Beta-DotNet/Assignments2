@@ -27,4 +27,4 @@ while True:
     elif choice == "3":
         break
     else:
-        print("Invalid selection.")
+        print("Invalid selection")
